@@ -1,4 +1,5 @@
 <h1 align="center">WELCOME TO MY WORLD!</h1>
+<h2 align="center">Hi! I'm Yuno and I'm a Computer Science lover!</h2>
 
 ###
 
