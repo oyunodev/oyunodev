@@ -1,15 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/w1ADNVW.gif">
 <h1 align="center"> WELCOME TO MY WORLD </h1>
-<p align="center"> I like: </p>
-
-   <pre align="left">-Hacking</pre>
-   <pre align="left">-Games</pre>
-   <pre align="left">-System of A Down</pre>
-   <pre align="left">-Pulp Fiction</pre>
-   <pre align="left">-90s Anime</pre>
-   <pre align="left">-Chess</pre>
-
+  
 <pre>
 ▓██   ██▓ █    ██  ███▄    █  ▒█████     ▓█████▄ ▓█████ ██▒   █▓
  ▒██  ██▒ ██  ▓██▒ ██ ▀█   █ ▒██▒  ██▒   ▒██▀ ██▌▓█   ▀▓██░   █▒
