@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME TO MY WORLD!</h1>
+<p align="center">Hi! I'm Yuno and I'm a Computer Science lover!</p>
 
 ###
-<h2 align="center">Hi! I'm Yuno and I'm a Computer Science lover!</h2>
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/dd/fe/f6/ddfef6fdb94240cb389b38e6a9a00983.gif"  />
 </div>
