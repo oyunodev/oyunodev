@@ -1,5 +1,4 @@
 <pre align="center">
-  <img src="https://i.imgur.com/w1ADNVW.gif">
 <h1 align="center"> WELCOME TO MY WORLD </h1>
   
 <pre>
@@ -15,3 +14,4 @@
  ░ ░                                      ░                 ░     
 </pre>   
 
+<img src="https://i.imgur.com/w1ADNVW.gif">
