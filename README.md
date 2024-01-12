@@ -10,8 +10,11 @@
 <h1 align="center">LEARNING</h1>
 
 ###
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+</div>
 ###
 
 <h1 align="center">SKILLS</h1>
