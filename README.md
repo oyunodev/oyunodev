@@ -3,17 +3,14 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/dd/fe/f6/ddfef6fdb94240cb389b38e6a9a00983.gif"  />
+<img height="200" src="https://i.pinimg.com/originals/dd/fe/f6/ddfef6fdb94240cb389b38e6a9a00983.gif"  />
 </div>
 
 ###
 <h1 align="center">LEARNING</h1>
 
 ###
-<img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c logo"  />
-<img width="12" />
+
 
 ###
 
