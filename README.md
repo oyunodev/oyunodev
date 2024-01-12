@@ -1,4 +1,4 @@
-```<h1 align="center">WELCOME TO MY WORLD!</h1>```
+<h1 align="center">WELCOME TO MY WORLD!</h1>
 <p align="center">Hi! I'm Yuno and I'm a Computer Science lover!</p>
 
 ###
@@ -7,7 +7,7 @@
 </div>
 
 ###
-<h1 align="center">LEARNING</h1>
+<p align="center">LEARNING</p>
 
 ###
 
