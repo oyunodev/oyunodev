@@ -17,6 +17,13 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://4.bp.blogspot.com/--2xWEj2kO7Q/WJQeyx5JwsI/AAAAAAAABPE/14K4ImdXcDcK5GSZLeujhKK53YTFNIIjwCLcB/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif"  />
+</div>
+
+###
 
 <h1 align="center">SKILLS</h1>
 
