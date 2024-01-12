@@ -7,7 +7,7 @@
 </div>
 
 ###
-<p align="center"><strong>LEARNING</strong></p>
+<h1 align="center">LEARNING</h1>
 
 ###
 
