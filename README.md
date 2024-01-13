@@ -1,5 +1,5 @@
 <h1> </h1>
-<h1 align="center">WELCOME TO MY WORLD!</h1>
+<pre align="center">WELCOME TO MY WORLD!</pre>
 <p align="center">Hi! I'm Yuno and I'm a Computer Science lover!</p>
 
 
@@ -11,7 +11,7 @@
 
 ###
 <h1> </h1>
-<h1 align="center">LEARNING</h1>
+<pre align="center">LEARNING</pre>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 <h1> </h1>
-<h1 align="center">SKILLS</h1>
+<pre align="center">SKILLS</pre>
 
 ###
 
