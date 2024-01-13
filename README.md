@@ -1,5 +1,6 @@
 <h1 align="center">WELCOME TO MY WORLD!</h1>
 <p align="center">Hi! I'm Yuno and I'm a Computer Science lover!</p>
+---
 
 ###
 <div align="center">
@@ -22,7 +23,7 @@
 <div align="center">
   <img height="200" src="https://4.bp.blogspot.com/--2xWEj2kO7Q/WJQeyx5JwsI/AAAAAAAABPE/14K4ImdXcDcK5GSZLeujhKK53YTFNIIjwCLcB/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif"  />
 </div>
-
+---
 ###
 
 <h1 align="center">SKILLS</h1>
