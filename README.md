@@ -1,5 +1,6 @@
 <h1> </h1>
 <pre align="center">WELCOME TO MY WORLD!</pre>
+<p align="center">🇧🇷</p>
 <p align="center">Hi! I'm Yuno and I'm a Computer Science lover!</p>
 
 
