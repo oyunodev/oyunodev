@@ -52,7 +52,7 @@
 
 ###
 <h1> </h1>
-<pre align="center">BASIC SKILLS</pre>
+<pre align="center">BASIC</pre>
 
 ###
 
