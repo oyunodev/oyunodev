@@ -1,6 +1,9 @@
 <h1> </h1>
 <pre align="center">WELCOME TO MY WORLD!</pre>
-<p align="center">🇧🇷</p>
+<div align="center">
+  <img src="https://hatscripts.github.io/circle-flags/flags/br.svg">
+  <img width="12" />
+</div>
 <p align="center">Hi! I'm Yuno and I'm a Computer Science lover!</p>
 
 
