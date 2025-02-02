@@ -16,9 +16,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)" height="30" alt="assembly logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" height="30" alt="c# logo"  />
   <img width="12" />
 </div>
 
@@ -58,8 +58,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="30" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
